@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+  }
+  nav {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    background: rgba(17, 17, 17, 0.7);
+  }
+  
+  nav ul {
+    float: right;
+    list-style: none;
+    padding: 25px;
+    margin: 0;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav a {
+    font-size: 0.9em;
+    color: #fff;
+    text-decoration: none;
+    margin: 5px 0 0 20px;
+    display: block;
+  }
+  
+  nav a:hover {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .logo {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #fff;
+    float: left;
+    margin: 25px 0 10px 20px;
+  }
+  
+  .logo {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #fff;
+    float: left;
+    margin: 25px 0 10px 20px;
+  }
+
+  body {
+    margin: 0;
+    min-width: var(--min-width);
+    color: var(--color-black);
+    font-family: var(--base-font-family);
+  }
+  
+
+  .app-title {
+    width: 100%;
+    margin: 120px 0 -50px 0;
+    float: left;
+    position: relative;
+    color: #000000;
+  }
+  
+  .app-title-content {
+    position: relative;
+    font-size: 2.3em;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+  }
+  
+  .app-card-list {
+    display: flex;
+    flex-wrap: wrap; /* Satırların alt alta sığdırılması */
+    justify-content: space-between;
+    align-items: flex-start; /* Kartların en üstte hizalanması */
+    width: 100%;
+    margin: 0;
+    min-height: 70vh;
+    white-space: normal;
+    overflow-x: auto; 
+    margin-top: -50px;
+  }
+  
+  .places-card-list {
+    display: flex;
+    flex-wrap: wrap; /* Satırların alt alta sığdırılması */
+    justify-content: space-between;
+    align-items: flex-start; /* Kartların en üstte hizalanması */
+    width: 100%;
+    margin: 0;
+    min-height: 70vh;
+    white-space: normal;
+    overflow-x: auto; 
+    margin-top: 100px;
+  }
+  
+  .card {
+    width: calc(33.33% - 50px); /* Her satırda 3 kart olacak şekilde genişlik ayarı */
+    height: 400px;
+    margin: 20px;
+    margin-bottom: 50px;
+    display: inline-block;
+    vertical-align: top; /* Kartların üstte hizalanması */
+  }
+  
+  @media screen and (max-width: 992px) {
+    .card {
+      width: calc(50% - 20px); /* Ekran daraldıkça 2 kart olacak şekilde genişlik ayarı */
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .card {
+      width: calc(100% - 20px); /* Ekran daraldıkça tek sıra halinde kartların genişlik ayarı */
+    }
+  }
+  
+  .card-header {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  
+  
+  .card-body {
+    white-space: normal;
+  }
+  
+  .body-content {
+    font-size: 16px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #086d11;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button-primary {
+    background-color: #000000;
+  }
+
+  #cart-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  
+  .cart {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    position: relative; /* cart'ı referans olarak belirtiyoruz */
+    height: 100%;
+
+  }
+  
+  .cart-wrapper {
+    margin-bottom: auto; /* Kartlar Tour başlığının altında kalacak şekilde ayarlanır */
+  }
+  
+  .cart-title {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  .cart-card {
+    width: calc(16.66% - 2px); /* Kartların 3'e bölünerek sığması sağlanır, kenar boşluklar dağıtılır */
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .cart-card-body {
+    padding: 15px;
+  }
+  
+  .cart-card-title {
+    margin-top: 0;
+  }
+  
+  .cart-card-header {
+    height: 200px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .cart-card-header img {
+    width: 100px; /* İstediğiniz boyuta ayarlayabilirsiniz */
+    height: 100px; /* İstediğiniz boyuta ayarlayabilirsiniz */
+  }
+  
+  .body-content {
+    margin-top: 20px;
+  }
+  
+  .button-primary {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .button-remove {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  .cart-card-header h4 {
+    margin-top: 10px;
+  }
+
+  .title-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px; /* İstediğiniz boşluğu ayarlayabilirsiniz */
+  }
+  
+  .calculate-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 2px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .calculate-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  

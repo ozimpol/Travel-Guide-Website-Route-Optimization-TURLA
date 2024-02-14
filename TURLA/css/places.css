@@ -1,0 +1,95 @@
+/* .buttons */
+.buttons {
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: -50px;
+    text-align: center;
+  }
+  
+  .buttons button {
+    border: 0;
+    width: calc(25% - 4px);
+    padding: 1em 1.5em;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 1em;
+    font-family: "Exo";
+    outline: 0;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.3s;
+    box-shadow: rgba(0, 0, 0, 0.09803920000000001) 0px -3px 0px 0px inset;
+  }
+  
+  .buttons button:hover {
+    background-color: #000000;
+  }
+  
+  .buttons button:active {
+    background-color: #ff8888;
+  }
+  
+  .buttons button.active {
+    background-color: #007bff; /* Örnek olarak aktif butonun arka plan rengi */
+    color: #fff; /* Örnek olarak aktif butonun metin rengi */
+    /* Diğer stiller buraya eklenebilir */
+  }
+
+  #modal-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none; /* Başlangıçta gizli */
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999; /* Ensure it's above other content */
+  }
+  
+  #modal-container.active {
+    display: flex; /* Modal açıldığında görünür olacak */
+  }
+  
+  
+  .modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .modal-content {
+    max-width: 600px;
+  }
+  
+  .modal-content img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .modal-content .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+  
+  .close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 20px;
+    color: #555;
+    cursor: pointer;
+  }
+  
+  .close:hover {
+    color: #000;
+  }

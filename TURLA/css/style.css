@@ -1,0 +1,371 @@
+:root {
+  --hoverEasing: cubic-bezier(0.23, 1, 0.32, 1);
+  --returnEasing: cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+#home {
+  clip-path: url(#cache);
+}
+
+#home-anim {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; /* Diğer içeriklerin üzerinde olacak */
+}
+
+#red {
+  fill: none;
+  opacity: 0.15;
+  stroke: #CE1B5F;
+  stroke-width: 12;
+  stroke-miterlimit: 10;
+  animation: show 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out; 
+}
+
+#blue {
+  fill: none;
+  opacity: 0.15;
+  stroke: #06A1C4;
+  stroke-width: 12;
+  stroke-miterlimit: 10;
+  animation: show 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+#light-blue {
+  fill: none;
+  opacity: 0.15;
+  stroke: #06A1C4;
+  stroke-width: 6;
+  stroke-miterlimit: 10;
+  stroke-dasharray: 200;
+  stroke-dashoffset: 800;
+  animation: draw 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;    
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes show {
+  0% {
+    opacity: 0.15;
+  }
+  50% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 0.15;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+
+header {
+  background: #111;
+}
+
+.headline {
+  position: relative;
+  height: 50vw;
+  color: #fff;
+  text-align: center;
+  background: url('img/bg.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.headline:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(17, 17, 17, 0.5);
+}
+
+.inner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  opacity: 0.8;
+  z-index: 10;
+  transform: translateX(-50%) translateY(-50%);
+  animation: fade-in 0.75s 0.25s ease-in forwards;
+}
+
+.inner h1 {
+  margin: 0;
+  font-size: 6em;
+  line-height: 1.8em;
+}
+
+.inner p {
+  margin: 0;
+  font-size: 2.1em;
+  font-style: italic;
+  font-family: serif;
+}
+
+
+nav {
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  background: rgba(17, 17, 17, 0.7);
+}
+
+nav ul {
+  float: right;
+  list-style: none;
+  padding: 25px;
+  margin: 0;
+}
+
+nav li {
+  float: left;
+}
+
+nav a {
+  font-size: 0.9em;
+  color: #fff;
+  text-decoration: none;
+  margin: 5px 0 0 20px;
+  display: block;
+}
+
+nav a:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #fff;
+  float: left;
+  margin: 25px 0 10px 20px;
+}
+
+.app-title {
+  width: 100%;
+  margin: 120px 0 -50px 0;
+  float: left;
+  position: relative;
+  color: #000000;
+}
+
+.app-title-content {
+  position: relative;
+  font-size: 2.3em;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.app-card-list {
+  display: flex;
+  flex-wrap: wrap; /* Satırların alt alta sığdırılması */
+  justify-content: space-between;
+  align-items: flex-start; /* Kartların en üstte hizalanması */
+  width: 100%;
+  margin: 0;
+  min-height: 70vh;
+  white-space: normal;
+  overflow-x: auto; 
+  margin-top: -50px;
+}
+
+.places-card-list {
+  display: flex;
+  flex-wrap: wrap; /* Satırların alt alta sığdırılması */
+  justify-content: space-between;
+  align-items: flex-start; /* Kartların en üstte hizalanması */
+  width: 100%;
+  margin: 0;
+  min-height: 70vh;
+  white-space: normal;
+  overflow-x: auto; 
+  margin-top: 100px;
+}
+
+.card {
+  width: calc(33.33% - 50px); /* Her satırda 3 kart olacak şekilde genişlik ayarı */
+  height: 400px;
+  margin: 20px;
+  margin-bottom: 50px;
+  display: inline-block;
+  vertical-align: top; /* Kartların üstte hizalanması */
+}
+
+@media screen and (max-width: 992px) {
+  .card {
+    width: calc(50% - 20px); /* Ekran daraldıkça 2 kart olacak şekilde genişlik ayarı */
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .card {
+    width: calc(100% - 20px); /* Ekran daraldıkça tek sıra halinde kartların genişlik ayarı */
+  }
+}
+
+.card-header {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.card-header--title {
+  color: #fff;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.card-body {
+  white-space: normal;
+}
+
+.body-content {
+  font-size: 16px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #086d11;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.button-primary {
+  background-color: #000000;
+}
+
+
+.logo-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10vh;
+  height: 90vh;
+}
+
+.vertical-image {
+  flex: 1;
+  text-align: center;
+  justify-content: center;
+  max-width: 50vw;
+}
+
+.vertical-image img {
+  margin-top: 5vh;
+  height: 500px;
+  width: 500px;
+}
+
+.quote-wrapper {
+  flex: 2;
+  max-width: 600px;
+  height: 500px;
+  position: relative;
+  margin-right: 5vw;
+  margin-left: 5vw;
+}
+
+.text {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle at center,
+    rgba(0, 0, 0, 0) 0%, /* transparent color at the center */
+    rgba(0, 0, 0, 0) 63%, /* transparent color at 63% */
+    rgb(255, 255, 255) 63.3% /* solid color (black in this case) after 63.3% */
+  ), url('img/ocean.jpg'); /* ocean.jpg adlı resmin yolu */
+  background-size: cover; /* Resmi kaplamak için eklenen özellik */
+  position: relative;
+  margin: 0;
+  color: rgb(159,206,148)
+}
+
+
+.text p {
+  height: 100%;
+  line-height: 1.25;
+  font-size: 22px;
+  padding: 0;
+  text-align: center;
+  font-style: italic;
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+               1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+.text::before {
+  content: "";
+  width: 50%;
+  height: 100%;
+  float: left;
+  shape-outside: polygon(
+    0 0,
+    98% 0,
+    50% 6%,
+    23.4% 17.3%,
+    6% 32.6%,
+    0 50%,
+    6% 65.6%,
+    23.4% 82.7%,
+    50% 94%,
+    98% 100%,
+    0 100%
+  );
+  shape-margin: 7%;
+}
+
+.text p::before {
+  content: "";
+  width: 50%;
+  height: 100%;
+  float: right;
+  shape-outside: polygon(
+    2% 0%,
+    100% 0%,
+    100% 100%,
+    2% 100%,
+    50% 94%,
+    76.6% 82.7%,
+    94% 65.6%,
+    100% 50%,
+    94% 32.6%,
+    76.6% 17.3%,
+    50% 6%
+  );
+  shape-margin: 7%;
+}
+
+
+
+

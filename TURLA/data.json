@@ -1,0 +1,464 @@
+[
+    {
+        "image": "places\/1.jpg",
+        "title": "Birbiçer Kebap",
+        "category": "Food",
+        "description": "Our company commenced its services on Bakımyurdu Street (Hacı Bayram) in the 1940s. Since the inception, our core principles have revolved around quality materials, reasonable pricing, cleanliness, and a commitment to excellent service. Our goal is to sustain this trajectory for years to come, ensuring that we continue to deliver the best service to you.",
+        "coords": "36.988137714239556, 35.32012960184707"
+    },
+    {
+        "image": "places\/2.jpg",
+        "title": "Ciğerci Ulaş",
+        "category": "Food",
+        "description": "The daring Turks shattered the Guinness World Records for the Longest Kebab with a staggering 233.67 meters! This remarkable feat not only marks a triumph for Turkey but also stands as the sole kebab record for Adana.",
+        "coords": "37.04617078387671, 35.306614311511616"
+    },
+    {
+        "image": "places\/3.jpg",
+        "title": "Beyzade Kebap",
+        "category": "Food",
+        "description": "The foundations of the Beyzade brand were laid in 1999 with the Güzelyalı Branch. Diners quickly embraced all varieties of dishes, with Adana kebab, lahmacun, and pide among their favorites. In addition to Adana Kebab and other traditional dishes, the brand expanded its offerings to include Dry Aged, Oven Tandoori, and Hamburger varieties, establishing the largest restaurant in the region, both indoors and outdoors. Presently, the Beyzade brand continues to welcome guests from all over Turkey with its expansive 5,000 square meter space and over 300 employees.",
+        "coords": "37.044345141178404, 35.25280951906447"
+    },
+    {
+        "image": "places\/4.jpg",
+        "title": "Şırdancı Bedo",
+        "category": "Food",
+        "description": "A modest venue offering a variety of traditional dishes such as Güveç, soups, and other traditional offal dishes, with outdoor seating available.",
+        "coords": "36.98391865826206, 35.32181634034396"
+    },
+    {
+        "image": "places\/5.jpg",
+        "title": "Dede Kebap Steakhouse",
+        "category": "Food",
+        "description": "Imagine a culinary legend that has been thriving in Adana for 48 years; Dede Kebap began with kebabs, ventured into oven dishes, and enriched its menu with a variety of steaks. This flavor brand claims to make pasta even better than the Italians and has won everyone's hearts with its legendary mushroom dish.",
+        "coords": "37.04306515262341, 35.31153218452335"
+    },
+    {
+        "image": "places\/6.jpg",
+        "title": "Kaburgacı Yaşar Usta",
+        "category": "Food",
+        "description": "In our café, where delicious dishes from around the world are served, particular attention is given to the preparation and presentation of pizza, pasta, coffee, and pan dishes. Our comfortable interior decor, front tables, and a variety of specialty coffees complement our rich menu of gourmet foods, welcoming guests from early morning until late at night, seven days a week. Whether it's a pleasant environment for conversations with friends or exceptional flavors delivered with service excellence that goes beyond standards, we offer a unique experience.",
+        "coords": "36.995599026675585, 35.34623961150933"
+    },
+    {
+        "image": "places\/7.jpg",
+        "title": "Alaçatı Muhallebicisi",
+        "category": "Food",
+        "description": "In 2012, our story began with a dream to bring the beauty and rich culture of the Aegean region to major cities and make it accessible throughout the year. We designed venues where our guests could experience unique comfort and flavor in a spacious environment, and not only taste but also purchase special flavors and regional delicacies of the Aegean.",
+        "coords": "37.043364434728524, 35.311120911511466"
+    },
+    {
+        "image": "places\/8.jpg",
+        "title": "Tahta Masa Restaurant",
+        "category": "Food",
+        "description": "The beauty of Adana lies not only in its unique flavors but also in its magnificent natural landscapes. Tahta Masa Cafe is truly a paradise for those wanting to explore these beauties of Adana. Situated on the shores of the Seyhan Dam Lake, this cafe offers a tranquil ambiance along with delicious meals, allowing visitors to immerse themselves in both the serenity of Adana and the delights of its cuisine.",
+        "coords": "37.05887592274289, 35.30185918267691"
+    },
+    {
+        "image": "places\/9.jpg",
+        "title": "Şehrizen",
+        "category": "Food",
+        "description": "A unique and ambitious venue where you can experience many of Turkey's regional desserts, especially Künefe, along with other delightful treats.",
+        "coords": "37.01754966846373, 35.26437432685149"
+    },
+    {
+        "image": "places\/10.jpg",
+        "title": "Hilton SA Restaurant",
+        "category": "Food",
+        "description": "We serve Mediterranean-inspired cuisine either at our open buffet or à la carte. Our chef adds a local touch to the dishes, grilling kebabs over charcoal and baking pizzas in a stone oven. You can dine on the terrace by the river or order from our extensive room service menu. Enjoy drinks and snacks by the poolside or at our lobby bar.",
+        "coords": "36.98771900831537, 35.33695966548539"
+    },
+    {
+        "image": "places\/11.jpg",
+        "title": "Friends Cafe",
+        "category": "Food",
+        "description": "We are highly confident in offering the finest rendition of Far Eastern cuisine. From our main courses to our alcoholic beverages, but especially with our sushi, we are poised to captivate your senses.",
+        "coords": "36.99991717269915, 35.324824909662276"
+    },
+    {
+        "image": "places\/12.jpg",
+        "title": "Bolkepçe Lokantası",
+        "category": "Food",
+        "description": "Description for this beautiful place.",
+        "coords": "36.98391312854252, 35.328579380826376"
+    },
+    {
+        "image": "places\/13.jpg",
+        "title": "Kazım Büfe",
+        "category": "Food",
+        "description": "In 1938, Kazım Büfe embarked on its journey into the business world, starting with family members selling cherry juice on their backs. Later, they acquired a shop across from Çetinkaya, expanding their offerings to include a wide range of beverages and food, thus venturing into the realm of buffet-style dining. The new generation, having learned the trade from family members, professionally managed the business and upheld the legacy of the current name. Kazım Büfe has earned the trust and affection of its customers, continuing its operations as a pioneering establishment in the industry.",
+        "coords": "37.00202551396998, 35.32706698267422"
+    },
+    {
+        "image": "places\/14.jpg",
+        "title": "Doktorum Yılmaz Şalgam Bici Bici",
+        "category": "Food",
+        "description": "Dr. Yol's Pickle Juice, named in his honor, began its operations in 1994 with its first sales branch, the Adana Baraj Yolu Branch, initiated by MAHMUT YOL. In response to the high demand from our esteemed customers, our second sales branch opened its doors at the entrance of the Corn Bazaar in 1997.",
+        "coords": "37.023023657353306, 35.31540292500461"
+    },
+    {
+        "image": "places\/15.jpg",
+        "title": "Ali Göde Şalgam",
+        "category": "Food",
+        "description": "Our journey with pickled turnips, which began on the streets of Adana in 1930 by Ali Göde, is now being continued by the third generation. Ali Göde remains a brand that is entirely natural and uncompromising in quality, just as it was on the first day. Known as the man who discovered pickled turnips, Ali Göde elevated quality and taste to the highest level by fermenting turnips in barrels made from mulberry wood. Our production method has remained unchanged for 93 years. We will continue to strive for even better quality so that you can always enjoy the best.",
+        "coords": "36.98989694209631, 35.32074116733241"
+    },
+    {
+        "image": "places\/16.jpg",
+        "title": "Gönül Kardeşler",
+        "category": "Food",
+        "description": "It is a small pastry shop located on Çakmak Street in Adana.",
+        "coords": "36.98807618868299, 35.32525840966177"
+    },
+    {
+        "image": "places\/17.jpg",
+        "title": "Bici Bicici Abuzer Usta",
+        "category": "Food",
+        "description": "Bici Bicici Abuzer is a cozy spot, especially known for its irresistible Bici Bici and Kadayıf desserts. Once you try them, you won't be able to resist coming back to this warm and inviting place.",
+        "coords": "36.99766262786954, 35.32063882500352"
+    },
+    {
+        "image": "places\/18.jpg",
+        "title": " Adana Köy Sofrası",
+        "category": "Food",
+        "description": "The aptly named Köy Sofrası fills a significant void. While delicious dishes from Anatolia are abundant, there are few restaurants that truly capture their essence. Traditional dishes require considerable effort and skill to prepare, and Köy Sofrası excels in delivering these authentic flavors and experiences.",
+        "coords": "37.02644929273295, 35.279861417306684"
+    },
+    {
+        "image": "places\/19.jpg",
+        "title": "Meşhur Kuruköprü Paça Salonu",
+        "category": "Food",
+        "description": "When it comes to offal and Kelle Paça soup, the renowned Kuruköprü Paça Salonu is the top choice.",
+        "coords": "37.05248474794368, 35.29694168082967"
+    },
+    {
+        "image": "places\/20.jpg",
+        "title": "Doğan Kaymaklı",
+        "category": "Food",
+        "description": "With 46 years of experience, Doğan Kaymaklı Kadayıf aims to provide you with the right balance of quality and price, meeting consumer expectations at the highest level with a wide range of products. We strive to create high-quality, innovative, and unique products, bringing Turkish dessert and hospitality culture to consumers not only in Turkey but also worldwide. Our goal is to become the most beloved and preferred brand in the industry by offering environments where customers feel good and enjoy consuming our products with pleasure.",
+        "coords": "37.002863077326495, 35.31998348548885"
+    },
+    {
+        "image": "places\/21.jpg",
+        "title": "Çukurova Şekerleme",
+        "category": "Food",
+        "description": "Since 1948, we have been providing service to our valued customers without compromising on our quality.",
+        "coords": "36.98671237934429, 35.325433391860216"
+    },
+    {
+        "image": "places\/22.jpg",
+        "title": "Varda Köprüsü",
+        "category": "Historic",
+        "description": "Varda Bridge is located in the Hacıkırı (Kıralan) neighborhood of the Karaisalı district in Adana province. It is commonly referred to as the Big Bridge by the local people. Also known as the Hacıkırı Railway Bridge or the German Bridge because it was constructed by Germans in 1912.",
+        "coords": "37.24312241432898, 34.97676360967407"
+    },
+    {
+        "image": "places\/23.jpg",
+        "title": "Taş Köprü",
+        "category": "Historic",
+        "description": "Adana's iconic symbol, the bridge, is considered to be a Roman-era structure. It is believed that the Stone Bridge, originally commissioned by the Roman Emperor Hadrianus, underwent significant repairs during the reign of the Roman Emperor Justinianus I. Originally boasting 21 arches, the bridge spans the Seyhan River. However, during the renovation of the Seyhan River, seven of its arches were buried underground, reducing the active arches to 14.",
+        "coords": "36.98649458132321, 35.334418805967594"
+    },
+    {
+        "image": "places\/24.jpg",
+        "title": "Çatalan Köprüsü",
+        "category": "Historic",
+        "description": "Çatalan Bridge is a 1575-meter-long bridge located on the Seyhan Dam Lake in Adana. It used to hold the title of Turkey's longest bridge before the construction of the Osmangazi Bridge. It is also known as the Seyhan West Bridge. The primary purpose of the bridge, constructed as part of the Çatalan Drinking Water Project to supply drinking water to Adana, is to facilitate the passage of water pipes. It is also built to accommodate highway transportation with its three-lane road.",
+        "coords": "37.07743281394329, 35.27431943080453"
+    },
+    {
+        "image": "places\/25.jpg",
+        "title": "Yavuzlar Köprüsü",
+        "category": "Historic",
+        "description": "The Yavuzlar Bridge, constructed in 2023, connects the eastern and western parts of Adana.",
+        "coords": "37.00300340555505, 35.33847873298167"
+    },
+    {
+        "image": "places\/26.jpg",
+        "title": "Misis Köprüsü",
+        "category": "Historic",
+        "description": "Misis Bridge, a historic bridge located in the town of Misis in the Yüreğir district of Adana, spans the Ceyhan River. It is known as one of Anatolia's earliest Roman bridges. According to a widespread belief in the region, it is said that the paper containing the recipe for the elixir of immortality, written by Lokman Hekim who is believed to have discovered it, slipped from his hand and into the waters of Misis Bridge.",
+        "coords": "36.9570341247787, 35.62573518082511"
+    },
+    {
+        "image": "places\/27.jpg",
+        "title": "Adana Arkeoloji Müzesi",
+        "category": "Historic",
+        "description": "Established in 1924 as one of Turkey's earliest museums, it holds a place among the country's oldest ten museums. Since 2017, it has been situated within the museum complex at the National Textile Factory. Featuring eight halls, the museum narrates humanity's journey from the prehistoric period onwards through informative texts, visuals, dioramas, and reconstructions.",
+        "coords": "36.99586056656468, 35.31358468465881"
+    },
+    {
+        "image": "places\/28.jpg",
+        "title": "Adana Sinema Müzesi",
+        "category": "Historic",
+        "description": "The Adana Cinema Museum is a cinema museum located in the city of Adana, Turkey. Established in an old Adana house on September 23, 2011, the museum is situated in the Kayalıbağ neighborhood of the Seyhan district, west of the Seyhan River. It primarily showcases works related to local directors, actors, and producers who are particularly associated with the city.",
+        "coords": "36.98907371805428, 35.33199401534118"
+    },
+    {
+        "image": "places\/29.jpg",
+        "title": "Atatürk Bilim ve Kültür Müzesi",
+        "category": "Historic",
+        "description": "The Adana Atatürk House Museum, where Mustafa Kemal Atatürk and his wife stayed during their visit to Adana on March 15, 1923, was converted into a museum in 1981. Located on Seyhan Avenue in Adana, the building originally belonged to Suphi Pasha of the Ramazanoğulları family. It was expropriated and restored by the Atatürk Science and Culture Museum Preservation and Revitalization Association. In 1981, on the occasion of the 100th anniversary of Atatürk's birth, it was opened to visitors as a museum under the Directorate of Museums.",
+        "coords": "36.988825844992945, 35.33183754234176"
+    },
+    {
+        "image": "places\/30.jpg",
+        "title": "Adana Müze Kompleksi",
+        "category": "Historic",
+        "description": "Adana Museum was established in 1924, shortly after the proclamation of the Republic, making it one of the oldest ten museums in Turkey. The Adana Archaeology Museum features eight halls where the journey of human life from prehistoric times to the present day is narrated through informative texts, visuals, dioramas, and reconstructions. The halls exhibit artifacts from various periods including prehistoric artifacts, sculptures, sarcophagi, stelae, altars, and busts from the Hittite, Assyrian, Archaic, Hellenistic, Roman, Byzantine, Seljuk, and Ottoman periods. Additionally, various objects such as stone vessels, pottery, and bronze vessels, terracotta and bronze lamps and figurines, cylinder-seal stamps, glass, bronze, and gold jewelry, along with other archaeological finds, are also on display.",
+        "coords": "36.99586056656468, 35.31358468465881"
+    },
+    {
+        "image": "places\/31.jpg",
+        "title": "Misis Mozaik Müzesi",
+        "category": "Historic",
+        "description": "The Misis Mosaic Museum is a mosaic museum located in the Yüreğir district of Adana. It was established in 1959 to exhibit the mosaics unearthed during excavations in the ancient city of Misis. After being connected to the Adana Archaeology Museum, all the artifacts within the museum were transferred there, and the museum was closed to visitors.",
+        "coords": "36.95828226053635, 35.62003170738829"
+    },
+    {
+        "image": "places\/32.jpg",
+        "title": "Şakirpaşa Konağı",
+        "category": "Historic",
+        "description": "The mansion, built in 1882 by the then governor of Adana, Şakir Pasha, holds significance as the place where Mustafa Kemal Atatürk, following the Armistice of Mudros, witnessed the determination of the people of the region, such as Adana and Dörtyol, and was inspired to embrace the idea of the War of Independence.",
+        "coords": "36.99479547712586, 35.287765946023555"
+    },
+    {
+        "image": "places\/33.jpg",
+        "title": "Yeşiloba Şehitliği Müzesi",
+        "category": "Historic",
+        "description": "The Kahyaoğlu massacre, also known as the Kahyaoğlu tragedy, took place on June 22, 1920, in Adana's Yeşiloba neighborhood, resulting in the deaths of at least 64 individuals. Armenian gangs, following the French occupation of Adana post-World War I, subjected the Turkish and Muslim population to oppression. As a result, around 150 Turkish families fleeing Adana were ambushed and killed by armed Armenians at the Kahyaoğlu station. The station was subsequently renamed Martyrdom, and a museum called Yeşiloba Martyrdom Museum was established there, featuring archives of newspapers dating back to 1917, among other artifacts. Additionally, the museum showcases 100 miniature sculptures depicting Adana's liberation struggle and other historical events.",
+        "coords": "36.99522714906163, 35.23978775397644"
+    },
+    {
+        "image": "places\/34.jpg",
+        "title": "Dağılcak Tabiat Parkı",
+        "category": "Nature",
+        "description": "Dağılcak Nature Park is a region where you can enjoy pleasant time with your family and friends. Also known as a recreational area, Dağılcak Nature Park was declared a Nature Park in 2011 and is located within the borders of Kozan district in Adana province.",
+        "coords": "37.5501868466044, 35.83613067419481"
+    },
+    {
+        "image": "places\/35.jpg",
+        "title": "Karataş Tabiat Parkı",
+        "category": "Nature",
+        "description": "Located within the Karataş Kumluk and Nature Park, this area has become a favorite spot for nature and photography enthusiasts due to its numerous endemic plant species and varieties of birds. Particularly, the singing birds have become a focal point of interest for photography enthusiasts in the region. There are no wild animals posing a threat to safety in the area. The facility includes showers and restrooms, available both within the facility structure and in the bungalows for overnight stays. The facility offers amenities for day visits, as well as for those traveling with caravans or tents, along with social facilities.",
+        "coords": "36.574794759232056, 35.40222899614791"
+    },
+    {
+        "image": "places\/36.jpg",
+        "title": "Adana Merkez Park",
+        "category": "Nature",
+        "description": "Merkez Park is a city park spanning a total of 50 hectares (500 acres) on both banks of the Seyhan River. Situated between the Sabancı Central Mosque in the south and the Galleria Shopping Mall in the north, the park was opened in 2004.",
+        "coords": "36.99469791483039, 35.3374590250033"
+    },
+    {
+        "image": "places\/37.jpg",
+        "title": "Dilberler Sekisi",
+        "category": "Nature",
+        "description": "Adana's charming men would bring their sweethearts to this secluded natural area and spend time by the riverside. Often avoiding being seen together, the gentlemen and ladies would arrive separately, prompting onlookers to remark amongst themselves, 'Ah! The beauties have come again!' As this pattern of 'the beauties arriving and departing' continued, the place came to be known as Dilberler(Beauties) Sekisi.",
+        "coords": "37.02291213452123, 35.32318396136474"
+    },
+    {
+        "image": "places\/38.jpg",
+        "title": "Sabancı Merkez Camii",
+        "category": "Historic",
+        "description": "Sabancı Central Mosque, located in the Reşatbey district of Adana, was opened in 1998. Situated south of Merkez Park and on the western bank of the Seyhan River, it is considered one of the largest mosques in the Balkans and the Middle East, providing worship facilities for 28,500 people. Due to its strategic location at the intersection of major arteries, railways, and highways connecting Adana to surrounding provinces and districts, as well as its tall minarets visible from afar, the mosque has become one of the symbols of the city.",
+        "coords": "36.99219839270678, 35.33421979999999"
+    },
+    {
+        "image": "places\/39.jpg",
+        "title": "Ulu Cami ve Külliyesi",
+        "category": "Historic",
+        "description": "The Ramazanoğulları Mosque, also known as the Adana Grand Mosque, is a historical mosque dating back to the 16th century located in Adana. It is considered the masterpiece of the Ramazanoğulları Principality and one of the city's most important historical structures. Until the opening of the Sabancı Central Mosque in 1998, it retained the distinction of being the largest mosque in Adana.        ",
+        "coords": "36.985708786726704, 35.3308667"
+    },
+    {
+        "image": "places\/40.jpg",
+        "title": "Yağ Camii",
+        "category": "Historic",
+        "description": "Yağ Mosque, also known as the Adana Old Mosque or formerly the Surp Hagop Armenian Apostolic Church, is a historical mosque located in the center of Adana, within the old bazaar. It was formed by the combination of the Surp Hagop Armenian Church, which was converted into a mosque with additions made during the reign of Ramazanoğlu Halil Bey in 1501, and the mosque built next to it by Ramazanoğlu Bey Piri Paşa. This mosque, characterized by its many columns, acquired its name 'Yağ Mosque' because a market selling oil was established in front of it during the 19th century.",
+        "coords": "36.9844845552784, 35.32762320738829"
+    },
+    {
+        "image": "places\/41.jpg",
+        "title": "Çoban Dede Türbesi ve Parkı",
+        "category": "Historic",
+        "description": "The Çoban Dede Tomb, also known as Çoban Dede Hill in popular parlance, is a tomb located right next to the city center of Adana, amidst lush greenery and boasting a unique view of the Seyhan River.",
+        "coords": "37.06133335351119, 35.3002511711647"
+    },
+    {
+        "image": "places\/42.jpg",
+        "title": "Ramazanoğlu Camii",
+        "category": "Historic",
+        "description": "Ramazanoglu Mosque is known as the greatest work of Turkish Ramazan Emirate (Ramazanogullari), who ruled from 1378 to 1608 on the southeast coast of Anatolia, based in Adana. It was commissioned by Ramazanoglu Halil Bey in 1513 and was completed by his son, Piri Mehmed Pasa in 1541, based on inscriptions on the two portals of the mosque. Its style reflects Seljuk, Mamluk and Ottoman influences.",
+        "coords": "37.0482487513963, 35.292286984658816"
+    },
+    {
+        "image": "places\/43.jpg",
+        "title": "Kemeraltı Camii",
+        "category": "Historic",
+        "description": "Kemeraltı Mosque is a place of worship located in the Seyhan district of Adana. It is also known as the Savcıoğlu or Savcızade Mosque, named after its builder, and due to its location, it is also referred to as the Tarsuskapı Mosque. The mosque was commissioned by Savcıoğlu Hacı Mustafa in 1548 during the period of the Ramazanoğulları Principality. The building has a square plan and is adorned with a single minaret at the northeast corner.",
+        "coords": "36.986607128617464, 35.325770157670604"
+    },
+    {
+        "image": "places\/44.jpg",
+        "title": "Yeni Camii",
+        "category": "Historic",
+        "description": "According to one of the mosque inscriptions, the mosque was built in 1724 by a wealthy man named Abdürrezzak Antaki from Antakya, while another inscription states that its minaret was built in 1729 by Aptullah Bin Ali Beşe. It is a rectangular-shaped building with ten domes. A sundial is located above the entrance door of its minaret.",
+        "coords": "36.989011876482195, 35.32396456136474"
+    },
+    {
+        "image": "places\/45.jpg",
+        "title": "Hoşkadem Camii",
+        "category": "Historic",
+        "description": "Hoşkadem Mosque, located in the center of Kozan district in Adana province, is an important structure dating back to the early years when Çukurova came under Turkish rule. A plaque above the main door bears an inscription. From the elegant sülüs script in Seljuk style, it is understood that the mosque was built on the 10th of Muharram, 852 according to the Islamic calendar, by 'Emir Abdullah Hoşkadem,' who was a commander under the Mamluk Sultan Malik Zahir Seyfettin Çakmak. This date corresponds to the year 1448 in the Gregorian calendar. The mosque suffered damage in the earthquake of 2023.",
+        "coords": "37.4541065931583, 35.93932155454104"
+    },
+    {
+        "image": "places\/46.jpg",
+        "title": "Anavarza Ören Yeri",
+        "category": "Historic",
+        "description": "Dating back to 2100 years ago and flourishing especially during the reign of the Roman Emperor Septimius Severus in the 2nd century AD, Anavarza became an important city, earning the title of the Capital of Cilicia in 408 AD. Continuing its significance during the Byzantine period, Anavarza hosted various civilizations over the years, including Armenians, Abbasids, Seljuks, Ramazanoğulls, and Ottomans. The traces of these diverse cultures can still be seen in Anavarza, making it a remarkable site with its ruins, history, and legends. Thanks to its cultural richness, Anavarza has been included in the UNESCO World Heritage Tentative List, drawing attention with its remnants and stories.",
+        "coords": "37.24988985703075, 35.89564126136474"
+    },
+    {
+        "image": "places\/47.jpg",
+        "title": "Şar Antik Kenti",
+        "category": "Historic",
+        "description": "Description for this beautiful place.",
+        "coords": "38.38071244226012, 36.320839262486594"
+    },
+    {
+        "image": "places\/49.jpg",
+        "title": "Kapıkaya Kanyonu",
+        "category": "Nature",
+        "description": "Kapıkaya Canyon, located in the village of Kapıkaya in the Karaisalı district of Adana province, is formed by the Çakıt Stream, one of the branches of the Seyhan River. The Çakıt Stream is the western branch of the Seyhan River, extending towards mountainous areas from the Pozantı Gorge. The canyon is situated 2 km away from the Varda Bridge.",
+        "coords": "37.24358058359879, 34.97759146931762"
+    },
+    {
+        "image": "places\/50.jpg",
+        "title": "Büyük Saat",
+        "category": "Historic",
+        "description": "The construction of the Büyük Saat (Great Clock Tower) began under Ziya Paşa and was completed in 1882 during the time of Abidin Paşa. The Büyük Saat has been regarded as a symbol of modernization in history. Mayor Hacı Yunus also made significant contributions to the construction. Since then, it has been recognized as one of the most important landmarks of Adana. Restoration work began in 2013, and it was completed in 2014.",
+        "coords": "36.9846573396148, 35.33024923068238"
+    },
+    {
+        "image": "places\/51.jpg",
+        "title": "Belemedik Vadisi",
+        "category": "Nature",
+        "description": "Belemedik, located in the Pozantı District of Adana, is an impressive tourist attraction. It stands out for its lush greenery along the Çakıt River, rich wildlife, railway lines, tunnels, and remnants from the German era. Belemedik promises visitors a lot with its Çakıt River, giant plane trees displaying stunning shades of yellow in autumn, evergreen pine trees contrasting with them, and its wooden and stone buildings.",
+        "coords": "37.35963293479078, 34.91413449347671"
+    },
+    {
+        "image": "places\/52.jpg",
+        "title": "Yılankale",
+        "category": "Historic",
+        "description": "The historical Yılan Castle, located on the Silk Road that passes through the Taurus Mountains to Antakya, was built by the Byzantines during the Crusader occupation of Çukurova in the Middle Ages. Like other castles in the plain such as Anavarza, Tumlu, and Kozan Castles, it has eight round towers within its line of sight. Stone stairs lead to the terraces from the main gate located to the south of the castle. The garrison of the castle was located in the uppermost section, which also houses a church and a cistern. Built on steep rocks, the castle holds significant artistic value.",
+        "coords": "37.018443990945364, 35.756806796023554"
+    },
+    {
+        "image": "places\/53.jpg",
+        "title": "Kazancılar Çarşısı",
+        "category": "Historic",
+        "description": "Description for this beautiful place.",
+        "coords": "36.98436325838902, 35.32838142946682"
+    },
+    {
+        "image": "places\/54.jpg",
+        "title": "Yumurtalık Plajı",
+        "category": "Nature",
+        "description": "Yumurtalık is a district of Adana known for its magnificent natural beauty, historical structures, and pristine beaches. Particularly during the summer months, the area is favored by both locals and foreign tourists. The long and clean beaches in the region offer visitors the opportunity to swim, sunbathe, and enjoy wonderful times by the sea.",
+        "coords": "36.77008684465114, 35.791420200000005"
+    },
+    {
+        "image": "places\/55.jpg",
+        "title": "Atatürk Parkı",
+        "category": "Nature",
+        "description": "Atatürk Parkı is a 4.7-hectare urban park established in the early years of the Republic. Located right in the heart of the city between Atatürk Avenue and Ziyapaşa Avenue, the park boasts lush greenery, large and dense trees, meticulous landscaping, a pond, a ceremonial area, and a bust of Atatürk. It's a beautiful and enjoyable park with plenty of oxygen. Even passing through it on foot while running errands in Adana can have a positive effect due to its natural ambiance. Whether it's children playing, babies strolling in prams, pets going for walks, or families spending time together on the grass, Atatürk Park is an ideal breathing space throughout all four seasons.",
+        "coords": "36.9974502252519, 35.3231907"
+    },
+    {
+        "image": "places\/56.jpg",
+        "title": "Kozan Kalesi",
+        "category": "Historic",
+        "description": "Kozan Castle is a historical fortress located in the Kozan district of Adana. With a history dating back to 3000 BC, Kozan Castle stands as a significant structure within the rich history and cultural heritage of the Adana region.",
+        "coords": "37.44273683295793, 35.80878806136474"
+    },
+    {
+        "image": "places\/57.jpg",
+        "title": "Bebekli Kilise",
+        "category": "Historic",
+        "description": "The Adana Bebekli Church, also known as the Saint Paul Church, is an Italian Catholic church located in the center of Adana, featuring a bronze statue of Mary on its top. It was originally constructed as an Armenian Apostolic Church and was believed to have been built between 1880-1890. After the Armenian Genocide in 1915, the Armenian community in Adana disappeared, and the Bebekli Church was transferred to the Catholic community. The church is named 'Bebekli,' meaning 'with baby,' due to the resemblance of the 2.5-meter bronze statue of Mary at the top to a baby. Today, the church is used by both the Catholic and Protestant communities.",
+        "coords": "36.988014188524424, 35.326004961337254"
+    },
+    {
+        "image": "places\/58.jpg",
+        "title": "Şeker Pınarı",
+        "category": "Nature",
+        "description": "Şekerpınarı is a powerful spring that forms a significant part of the Çakıt Creek. Emerging from the depths of the mountain with a roaring cascade, this mighty river captivates visitors with its sound, sight, and cool breeze. Near the source of Şekerpınarı, there are various water bottling facilities owned by different companies. The restaurants located around the spring, renowned for the taste of their meat, offer a perfect spot for a meal break.",
+        "coords": "37.33831977361454, 34.802118561364736"
+    },
+    {
+        "image": "places\/59.jpg",
+        "title": "Karaisalı Dokuzoluk Kanyonu",
+        "category": "Nature",
+        "description": "Located in the Karaisalı district of Adana, Dokuzoluk Canyon is situated 55 kilometers away from the city center. Renowned for its natural beauty, the area is also utilized by locals as a recreational area and is frequently chosen as a camping destination.",
+        "coords": "37.40095225298845, 35.20542384555605"
+    },
+    {
+        "image": "places\/60.jpg",
+        "title": "Küp Şelaleleri",
+        "category": "Nature",
+        "description": "Küp Waterfall is a series of waterfalls located in the canyon of Zamantı River, one of the main branches of the Seyhan River. Although known as Aladağ Küp Waterfall, it is actually a collection of around 10 waterfalls. Until recently, this place was unknown but has become very popular with the impoundment of the dam. What sets this place apart from the many other waterfalls in our country is the presence of around 10 waterfalls along the 1.5 km canyon, a natural bridge formation known as the earth bridge, a pipe waterfall formed by water spurting from the rock, and various other impressive natural wonders such as caves with springs inside.",
+        "coords": "37.689830181815374, 35.50333048650588"
+    },
+    {
+        "image": "places\/61.jpg",
+        "title": "Obruk Şelalesi",
+        "category": "Nature",
+        "description": "Saimbeyli Obruk Waterfall is one of the must-see natural beauties of the district. Formed by the spouting of water from the karstic limestone structure, this natural wonder mesmerizes visitors. Unlike many other waterfalls, it exhibits a gently sloping horizontal flow, and visitors can explore the waterfall by walking on wooden walkways built right above it, rather than just observing it from a distance.",
+        "coords": "38.00241328473575, 36.09281946407734"
+    },
+    {
+        "image": "places\/62.jpg",
+        "title": "Art Jophiel",
+        "category": "Historic",
+        "description": "Art Jophiel offers traditional handicrafts from Adana, including beadwork, kilim motifs, and cross-stitching, showcasing the region's centuries-old history. Situated in the heart of the market, this cultural shop welcomes locals and visitors from around the world, inviting them to explore an array of handmade souvenirs, vintage jewelry, accessories, and decorative items. Guests are also invited to indulge in a traditional Adana treat of hot cinnamon walnut drinks. Each meticulously crafted item is a labor of love, and the Art Jophiel family takes pride in introducing these unique products to the people of Adana.",
+        "coords": "36.984209046786255, 35.32804252515315"
+    },
+    {
+        "image": "places\/63.jpg",
+        "title": "Hacı Ahmet Şahin Helvacısı",
+        "category": "Food",
+        "description": "We are very confident in claiming that Hacı Ahmet Şahin Helvacısı is the inventor of helva.",
+        "coords": "36.98393624741304, 35.3299"
+    },
+    {
+        "image": "places\/64.jpg",
+        "title": "Şahmeran Sabunculuk",
+        "category": "Historic",
+        "description": "You should try our chemical-free, pure olive oil soaps.",
+        "coords": "36.984693439224394, 35.328779884658815"
+    },
+    {
+        "image": "places\/65.jpg",
+        "title": "Milano Pizzeria",
+        "category": "Food",
+        "description": "Experience Italy with our thin-crust pizzas made with handmade dough, and enjoy our homemade sauces crafted in both Turkish and Italian styles.",
+        "coords": "37.00056487234071, 35.32784085397645"
+    },
+    {
+        "image": "places\/66.jpg",
+        "title": "Maft Cafe",
+        "category": "Food",
+        "description": "You can experience a warm and cozy atmosphere with our sincere and friendly visitors, creating a sense of family-like environment.",
+        "coords": "37.0315306720291, 35.316418115341186"
+    },
+    {
+        "image": "places\/265eaeb327e3973390d89eed23d4323d4dd491cf_plc_f249d3e33385868272993888008afbb4.jpg",
+        "title": "Dünya Cafe & Döner",
+        "category": "Food",
+        "description": "Dünya Cafe is a really good place for eating Turkish döner.",
+        "coords": "37.050321074845684, 35.26064183863526"
+    }
+]
